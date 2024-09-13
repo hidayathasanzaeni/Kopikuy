@@ -1,0 +1,71 @@
+{
+  "Minuman": [
+    {
+      "nama": "Cappucino",
+      "size": "355 Mil",
+      "harga": "35.000",
+      "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTscqIEb9ZLxKAzWD6goY11a_Ryqy87SnLCyQ4stRVzLNiqeiWH",
+      "link": "https://www.foodandwine.com/cappuccino-7852418"
+    },
+    {
+      "nama": "Espresso",
+      "size": "355 Mil",
+      "harga": "35.000",
+      "foto": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS0ZQfgtZ3lTIj4y4AFp2YjVCc2g1dxMtc7xWDt_vSSEkNGP-zI",
+      "link": "https://www.thecoffeecompass.com/how-to-drink-espresso/"
+    },
+    {
+      "nama": "Latte",
+      "size": "355 Mil",
+      "harga": "35.000",
+      "foto": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS8mxZTzgMVrj5l7AJBlepCD6F4pCyDoz05bjp1Fqk6-LDBVOxg",
+      "link": "https://www.foodandwine.com/how-to-make-a-latte-7096050"
+    }
+  ],
+  "Makanan": [
+    {
+      "nama": "Pecel Lele",
+      "size": "1 Porsi",
+      "harga": "25.000",
+      "foto": "https://kurio-img.kurioapps.com/20/11/21/b2aecfb2-fefd-415f-9424-2485a95d41ef.png",
+      "link": "https://www.google.com/search?gs_ssp=eJzj4tbP1TcwNMwxKTHJMGB0YPDiKkhNTs1RyEnNSQUAY8cHsw&q=pecel+lele&oq=pece&gs_lcrp=EgZjaHJvbWUqCggCEC4YsQMYgAQyBggAEEUYOTIKCAEQLhixAxiABDIKCAIQLhixAxiABDIKCAMQLhixAxiABDIKCAQQABixAxiABDIKCAUQABixAxiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIQCAkQLhivARjHARi6AhiABDIZCAoQLhiDARivARjHARi6AhixAxiABBiKBTIHCAsQABiABDIHCAwQABiABDIQCA0QLhivARjHARi6AhiABNIBCDQxNzBqMGo3qAIUsAIB&client=ms-android-samsung&sourceid=chrome-mobile&ie=UTF-8#vhid=C88K-RrKKYIzfM&vssid=l"
+    },
+    {
+      "nama": "Ikan Nila Goreng",
+      "size": "1 Porsi",
+      "harga": "25.000",
+      "link": "https://www.google.com/search?gs_ssp=eJzj4tLP1TcoL0xOLqoyYHRg8OLOzE7MU0jPL0rNSwcAdUAItQ&q=ikan+goreng&oq=ikan+go&gs_lcrp=EgZjaHJvbWUqCggBEC4YsQMYgAQyBggAEEUYOTIKCAEQLhixAxiABDIHCAIQLhiABDIHCAMQLhiABDIHCAQQABiABDIQCAUQLhivARjHARi6AhiABDIHCAYQLhiABDIHCAcQABiABDIHCAgQLhiABDIHCAkQABiABDIHCAoQABiABDIHCAsQABiABDIHCAwQABiABDIHCA0QABiABNIBCDczMjZqMGo3qAIUsAIB&client=ms-android-samsung&sourceid=chrome-mobile&ie=UTF-8#vhid=Pic0hKrPG6S6yM&vssid=l",
+      "foto": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS5UyeJef6Z7TFOmV7HI2_hA5WM48GoOZMcgi-3qq687OqA3q49"
+    },
+    {
+      "nama": "Rawon Daging",
+      "size": "1 Porsi",
+      "harga": "45.000",
+      "link": "https://www.google.com/search?q=rawon&client=ms-android-samsung&sca_esv=8137413b400421e9&sca_upv=1&sxsrf=ADLYWIKNLXS_sYtt3Zz35CpNsTHoT39yBg%3A1726137855440&ei=_8XiZqPLGoibseMP44eiyQY&gs_ssp=eJzj4tLP1TewTM-oNE42YHRg8GItSizPzwMAQCwGDg&oq=raw&gs_lp=EhNtb2JpbGUtZ3dzLXdpei1zZXJwIgNyYXcqAggAMg0QLhiABBixAxhDGIoFMgoQABiABBhDGIoFMgoQABiABBhDGIoFMgoQABiABBhDGIoFMgUQABiABDIFEAAYgAQyChAAGIAEGEMYigUyEBAuGIAEGEMYxwEYigUYrwFI20dQiRBYvTdwAXgBkAEAmAHsAqABiBSqAQcwLjguMy4yuAEByAEA-AEBmAIHoAKoCqgCD8ICChAAGLADGNYEGEfCAg0QABiABBiwAxhDGIoFwgITEC4YgAQYsAMYQxjIAxiKBdgBAcICChAuGIAEGCcYigXCAgoQIxiABBgnGIoFwgIKEC4YgAQYQxiKBcICCxAuGIAEGLEDGIMBwgILEAAYgAQYsQMYgwHCAgcQLhgnGOoCwgIHECMYJxjqAsICBBAjGCfCAggQABiABBixA5gDqgKIBgGQBhG6BgQIARgIkgcFMC41LjKgB86HAg&sclient=mobile-gws-wiz-serp#vhid=LJEAdEbdcEMbeM&vssid=l",
+      "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOkNGGVtwWA0zbsDQJs0eAK_VNyhG2YmDv2wWPq_mgFw8T96V-"
+    }
+  ],
+  "HandPhone": [
+    {
+      "nama": "Samsung Galaxy A06",
+      "size": "300 Gram",
+      "harga": "1.499.000",
+      "link": "https://www.samsung.com/id/smartphones/galaxy-a/galaxy-a06-light-blue-64gb-sm-a065flbdxid/buy/?gclid=CjwKCAjwooq3BhB3EiwAYqYoEhXXfi3a-a3OJd4A_nw8IuGOdxQ4k-gwgrvSE812e9gM64V0_skzahoCHIMQAvD_BwE&cid=id_pd_ppc_google_a06_launch_163-mx-a06-24q3-lc-r1-ppc-conv-w-cpc-kwb.na.none-text_text_none-warm-none-20240903_none_pfm&gclsrc=aw.ds&gad_source=1&ef_id=YkWSogARQEDXlwBH:20240912104114:s",
+      "foto": "https://images.tokopedia.net/img/cache/500-square/VqbcmM/2024/9/5/fe5dc4ae-86c5-4138-b2c7-c82d04d4ea10.jpg.webp"
+    },
+    {
+      "nama": "Samsung A55",
+      "size": "300 Gram",
+      "harga": "5.800.000",
+      "link": "https://www.samsung.com/id/smartphones/galaxy-a/galaxy-a55-5g-awesome-lemon-256gb-sm-a556ezycxid/buy/?cid=id_pd_ppc_google_galaxy-a55_launch_139-mx-galaxy.a55-24q3-lc-r1-ppc-conv-w-cpc-kwb.na.a55.focus.ttm.offer-text_text_none-warm-none-20240710_none_pfm&gclsrc=aw.ds&gad_source=1&af_force_deeplink=true&gclsrc=aw.ds&pid=google&is_retargeting=true&af_click_lookback=7d&gclid=CjwKCAjwooq3BhB3EiwAYqYoEqfDXzVTzDxzVvXZ_py2NcW2yBrO0h632q2vumA5KVJheOP1zOKViBoC0DEQAvD_BwE&af_adset=adgroup&af_ad=ad&idfa={idfa}&deep_link_value=samsungestore%3A%2F%2Fopenwebview%23url%3Dhttps%3A%2F%2Fwww.samsung.com%2Fid%2Fsmartphones%2Fgalaxy-a%2Fgalaxy-a55-5g-awesome-navy-256gb-sm-a556ezkcxid%2Fbuy%2F%3Fcid%3Did_pd_ppc_google_galaxy-a55_launch_058-mx-galaxy.a55-24q3-lc-r1-ppc-conv-w-cpc-kwb.na.a55.focus.ttm.offer-text_text_none-warm-none-20240710_none_pfm&af_reengagement_window=lifetime&advertising_id={adid}&c=id_pd_ppc_google_galaxy-a55_launch_058-mx-galaxy.a55-24q3-lc-r1-ppc-conv-w-cpc-kwb.na.a55.focus.ttm.offer-text_text_none-warm-none-20240710_none_pfm&referrer=af_tranid%3Dg_MLmCzPU7l5FgUyjmPBCQ%26af_android_url%3Dhttps%3A%2F%2Fwww.samsung.com%2Fid%2Fsmartphones%2Fgalaxy-a%2Fgalaxy-a55-5g-awesome-lemon-256gb-sm-a556ezycxid%2Fbuy%2F%3Fcid%3Did_pd_ppc_google_galaxy-a55_launch_139-mx-galaxy.a55-24q3-lc-r1-ppc-conv-w-cpc-kwb.na.a55.focus.ttm.offer-text_text_none-warm-none-20240710_none_pfm%26gclsrc%3Daw.ds%26gad_source%3D1%26af_r%3Dhttps%3A%2F%2Fwww.samsung.com%2Fid%2Fsmartphones%2Fgalaxy-a%2Fgalaxy-a55-5g-awesome-navy-256gb-sm-a556ezkcxid%2Fbuy%2F%3Fcid%3Did_pd_ppc_google_galaxy-a55_launch_058-mx-galaxy.a55-24q3-lc-r1-ppc-conv-w-cpc-kwb.na.a55.focus.ttm.offer-text_text_none-warm-none-20240710_none_pfm%26c%3Did_pd_ppc_google_galaxy-a55_launch_058-mx-galaxy.a55-24q3-lc-r1-ppc-conv-w-cpc-kwb.na.a55.focus.ttm.offer-text_text_none-warm-none-20240710_none_pfm%26af_ad%3Dad%26pid%3Dgoogle%26deep_link_value%3Dsamsungestore%253A%252F%252Fopenwebview%2523url%253Dhttps%253A%252F%252Fwww.samsung.com%252Fid%252Fsmartphones%252Fgalaxy-a%252Fgalaxy-a55-5g-awesome-navy-256gb-sm-a556ezkcxid%252Fbuy%252F%253Fcid%253Did_pd_ppc_google_galaxy-a55_launch_058-mx-galaxy.a55-24q3-lc-r1-ppc-conv-w-cpc-kwb.na.a55.focus.ttm.offer-text_text_none-warm-none-20240710_none_pfm%26af_ios_url%3Dhttps%3A%2F%2Fwww.samsung.com%2Fid%2Fsmartphones%2Fgalaxy-a%2Fgalaxy-a55-5g-awesome-lemon-256gb-sm-a556ezycxid%2Fbuy%2F%3Fcid%3Did_pd_ppc_google_galaxy-a55_launch_139-mx-galaxy.a55-24q3-lc-r1-ppc-conv-w-cpc-kwb.na.a55.focus.ttm.offer-text_text_none-warm-none-20240710_none_pfm%26gclsrc%3Daw.ds%26gad_source%3D1%26af_adset%3Dadgroup",
+      "foto": "https://images.samsung.com/is/image/samsung/p6pim/id/sm-a556ezycxid/gallery/id-galaxy-a55-5g-sm-a556-498188-sm-a556ezycxid-543335427?$720_576_PNG$"
+    },
+    {
+      "nama": "Samsung Z Fold",
+      "size": "300 Gram",
+      "harga": "23.000.000",
+      "link": "https://www.samsung.com/id/smartphones/galaxy-z-fold6/buy/?modelCode=SM-F956BAKDXID&cid=id_pd_ppc_pla_galaxy-z-fold6_pre-order_155-mx-gzfo6-24q3-po-r1-prfmx.pla-conv-h-cpc-sa_po-hot-none-20240710_none_pfm&gad_source=1&gclid=CjwKCAjwooq3BhB3EiwAYqYoEgX93mfVes6Xz02myYYNl2ALrnqJrpRM5zdNpctYO8GDZEBguDFRtBoCcOwQAvD_BwE&gclsrc=aw.ds",
+      "foto": "https://images.samsung.com/id/smartphones/galaxy-z-fold6/buy/kv_2exclusive_MO_v4.jpg?imbypass=true"
+    }
+  ]
+}
